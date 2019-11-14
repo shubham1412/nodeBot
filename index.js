@@ -46,4 +46,4 @@ client.on("message", message=>{
         });
     }
 });
-const stringPromise = client.login('NjQ0MTIxMDk4MjE2MTQ0ODk4.Xcvamw.M4soZhqj3Wq_Yl45nz1_IsH-cY8');
+const stringPromise = client.login('NjQ0MTIxMDk4MjE2MTQ0ODk4.Xc040g.ikqN7lwLgJ7jGOgbhFBUY7nOr-o');
